@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "A & K Carpet and Flooring",
+    "phone": "+14247851123",
+    "category": "flooring contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Flooring Authority",
+      "heroSubline": "Durable, beautiful floors expertly installed and built to last. Serving Long Beach and surrounding areas with pride.",
+      "aboutTitle": "Decades of Flooring Expertise in Long Beach",
+      "aboutText": [
+        "A & K Carpet and Flooring started with a simple mission: to provide Long Beach homeowners and businesses with flooring solutions that stand the test of time. Founded by two local craftsmen, we've grown from a small team to a trusted name in the community.",
+        "We believe in doing things the right way, every time. This means using quality materials, employing skilled installers, and communicating openly with our clients. Our commitment to excellence is reflected in every project we undertake, from small repairs to complete home renovations.",
+        "We're proud to be a part of the Long Beach community, and we're committed to giving back. We regularly support local schools and organizations, and we strive to be a responsible and ethical business in everything we do."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures flawless installation, minimizing disruptions and maximizing the lifespan of your floors."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "Choose from a vast array of flooring options, from classic hardwood to modern waterproof vinyl, all sourced from reputable suppliers."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Long Beach homes, including moisture, earthquake risk, and the impact of the coastal climate."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive satisfaction guarantee. If you're not happy, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Schedule a free consultation and discover the perfect flooring solution for your Long Beach home or business."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring Installation & Refinishing",
+        "shortDescription": "Timeless beauty and lasting value with expert hardwood services.",
+        "description": "Hardwood flooring adds warmth and character to any Long Beach home. We specialize in hardwood installation, refinishing, and repair. Considering the age of many homes in the area, especially the Craftsman styles in Belmont Shore and Bixby Knolls, hardwood is a popular choice. We handle everything from selecting the right wood species to ensuring a flawless finish.\n\nOur installation process includes careful subfloor preparation, precise cutting and fitting, and expert nailing or gluing. We understand the importance of proper acclimation to prevent warping or cracking, given Long Beach's coastal climate. For existing hardwood floors, our refinishing services can restore their original luster, removing scratches, dents, and discoloration. We use dustless sanding equipment to minimize mess and disruption.\n\nWe also offer hardwood repair services, addressing issues such as water damage, loose boards, and squeaks. Our team can seamlessly match existing wood and finishes to ensure a cohesive look. From classic oak to exotic hardwoods, we have the expertise to handle any hardwood flooring project.",
+        "process": [
+          "Consultation & Design",
+          "Material Selection",
+          "Professional Installation",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Beauty",
+          "Improved Air Quality",
+          "Easy Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Long Beach?",
+            "answer": "Harder woods like oak or maple are great choices for Long Beach homes due to their durability and resistance to moisture. Engineered hardwood is also a good option for areas prone to humidity."
+          },
+          {
+            "question": "How long does hardwood installation take?",
+            "answer": "The installation time depends on the size and complexity of the project, but typically ranges from 2-5 days. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Generally, you should refinish your hardwood floors every 7-10 years, depending on the amount of traffic and wear. Regular cleaning and maintenance can help extend the life of your finish."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Durable, affordable, and stylish laminate flooring solutions.",
+        "description": "Laminate flooring is a cost-effective and versatile option for Long Beach homeowners. It offers the look of hardwood or tile at a fraction of the price, and it's highly resistant to scratches, stains, and fading. This makes it a great choice for families with pets or children, especially in the more modern condos found near the waterfront.\n\nWe offer a wide selection of laminate styles and colors to suit any décor. Our installation process includes careful subfloor preparation, precise cutting, and secure locking of the planks. We use moisture barriers to protect against humidity, which is essential in Long Beach's coastal environment. Laminate is a great alternative to hardwood in areas where moisture is a concern.\n\nWe ensure a smooth and seamless installation, paying attention to detail and minimizing disruption to your home. Laminate flooring is easy to clean and maintain, making it a practical choice for busy families. We also offer laminate repair services, addressing issues such as chipped edges or loose planks.",
+        "process": [
+          "Subfloor Preparation",
+          "Underlayment Installation",
+          "Laminate Installation",
+          "Trim & Finishing"
+        ],
+        "benefits": [
+          "Affordable Price",
+          "Scratch Resistance",
+          "Easy Maintenance",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not completely waterproof. However, we offer waterproof laminate options that are ideal for bathrooms, kitchens, and laundry rooms."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last 15-25 years. The lifespan depends on the quality of the laminate and the amount of traffic it receives."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper fit, prevents moisture damage, and maximizes the lifespan of your floors. We recommend professional installation for the best results."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Luxury Vinyl Plank & Tile (LVP/LVT)",
+        "shortDescription": "Waterproof, stylish, and durable vinyl flooring for any room.",
+        "description": "Luxury Vinyl Plank (LVP) and Luxury Vinyl Tile (LVT) are rapidly growing in popularity in Long Beach due to their exceptional durability, waterproof properties, and stylish designs. They're perfect for bathrooms, kitchens, laundry rooms, and any area prone to moisture. Given the older homes near Belmont Shore and the waterfront properties, vinyl offers a stylish and resilient flooring option.\n\nWe offer a wide range of LVP and LVT options, including wood-look planks, stone-look tiles, and modern patterns. Our installation process includes careful subfloor preparation, precise cutting, and secure adhesion or locking of the planks. We use high-quality adhesives and sealants to ensure a waterproof and long-lasting installation.\n\nLVP and LVT are incredibly easy to clean and maintain, making them a practical choice for busy families. They're also comfortable underfoot and offer excellent sound insulation. We also offer vinyl repair services, addressing issues such as scratches, dents, or loose planks. With its versatility and durability, LVP/LVT flooring is a great investment.",
+        "process": [
+          "Moisture Testing",
+          "Subfloor Leveling",
+          "Vinyl Installation",
+          "Sealing & Finishing"
+        ],
+        "benefits": [
+          "Waterproof",
+          "Durable",
+          "Stylish Designs",
+          "Easy to Clean"
+        ],
+        "faq": [
+          {
+            "question": "Is LVP flooring suitable for bathrooms?",
+            "answer": "Yes, LVP flooring is an excellent choice for bathrooms due to its waterproof properties. It can withstand spills, splashes, and humidity without warping or damage."
+          },
+          {
+            "question": "How long does LVP flooring last?",
+            "answer": "With proper care and maintenance, LVP flooring can last 20-30 years. The lifespan depends on the quality of the vinyl and the amount of traffic it receives."
+          },
+          {
+            "question": "Can LVP be installed over existing flooring?",
+            "answer": "In many cases, LVP can be installed over existing flooring if the surface is level and in good condition. We'll assess your subfloor during the consultation to determine the best approach."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation & Replacement",
+        "shortDescription": "Comfort, warmth, and style with our professional carpet services.",
+        "description": "Carpet provides warmth, comfort, and sound insulation, making it a popular choice for bedrooms, living rooms, and family rooms in Long Beach homes. We offer a wide selection of carpet styles, colors, and textures to suit any décor. We understand the importance of choosing the right carpet for your lifestyle and budget.\n\nOur installation process includes removing existing flooring, preparing the subfloor, installing padding, and stretching and securing the carpet. We use professional-grade tools and techniques to ensure a smooth and wrinkle-free installation. We also offer carpet repair services, addressing issues such as stains, tears, and loose seams. Regular cleaning and maintenance can extend the life of your carpet.\n\nGiven the warm climate in Long Beach, stain-resistant carpets are a great choice. We can help you select a carpet that is both comfortable and durable. From plush textures to Berber styles, we have the expertise to handle any carpet installation project.",
+        "process": [
+          "Old Carpet Removal",
+          "Subfloor Preparation",
+          "Padding Installation",
+          "Carpet Stretching & Securing"
+        ],
+        "benefits": [
+          "Comfort & Warmth",
+          "Sound Insulation",
+          "Variety of Styles",
+          "Affordable Price"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "For high-traffic areas, we recommend a low-pile carpet made from durable fibers such as nylon or polyester. These carpets are resistant to crushing and staining."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 12-18 months to remove dirt, allergens, and stains. Regular vacuuming can also help extend the life of your carpet."
+          },
+          {
+            "question": "What is the best way to remove stains from carpet?",
+            "answer": "Act quickly and blot the stain with a clean cloth. Avoid rubbing the stain, as this can spread it. Use a carpet stain remover specifically designed for the type of stain."
+          }
+        ]
+      },
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation (Kitchen, Bath, Floors)",
+        "shortDescription": "Durable and beautiful tile for kitchens, bathrooms, and floors.",
+        "description": "Tile is a versatile and durable flooring option for kitchens, bathrooms, and other areas in Long Beach homes. It's resistant to water, stains, and scratches, making it an ideal choice for high-moisture environments. We offer a wide selection of tile styles, colors, and sizes to suit any décor.\n\nOur installation process includes preparing the subfloor, applying mortar, setting the tiles, and grouting. We use precise cutting and leveling techniques to ensure a flawless and long-lasting installation. We also offer tile repair services, addressing issues such as cracked or chipped tiles. Given the potential for earthquakes in the area, we use flexible grout to help prevent cracking.\n\nFrom ceramic and porcelain to natural stone, we have the expertise to handle any tile installation project. We can help you select the right tile for your specific needs and budget. Tile is a great way to add value and style to your Long Beach home.",
+        "process": [
+          "Subfloor Preparation",
+          "Mortar Application",
+          "Tile Setting",
+          "Grouting & Sealing"
+        ],
+        "benefits": [
+          "Water Resistance",
+          "Durability",
+          "Variety of Styles",
+          "Easy to Clean"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for bathrooms?",
+            "answer": "Porcelain tile is an excellent choice for bathrooms due to its water resistance and durability. It's also available in a wide range of styles and colors."
+          },
+          {
+            "question": "How often should I seal my grout?",
+            "answer": "We recommend sealing your grout every 1-2 years to prevent stains and moisture damage. Sealing the grout will help keep your tile looking its best."
+          },
+          {
+            "question": "Can I install tile over existing tile?",
+            "answer": "In some cases, you can install tile over existing tile if the surface is level and in good condition. We'll assess your subfloor during the consultation to determine the best approach."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair Services",
+        "shortDescription": "Expert repairs for all types of flooring: hardwood, laminate, vinyl, and tile.",
+        "description": "Floors endure a lot of wear and tear, and sometimes they need a little TLC. A & K Carpet and Flooring offers comprehensive floor repair services for all types of flooring, including hardwood, laminate, vinyl, and tile. Whether you have water damage, scratches, dents, or loose boards, we can restore your floors to their original condition.\n\nOur repair process includes assessing the damage, identifying the cause, and implementing the appropriate repair techniques. We use high-quality materials and tools to ensure a long-lasting repair. We can seamlessly match existing wood, laminate, or tile to ensure a cohesive look. For older homes in Long Beach, matching the existing flooring is critical.\n\nWe understand the importance of minimizing disruption to your home during the repair process. We work efficiently and carefully to complete the repairs as quickly as possible. From small patches to extensive repairs, we have the expertise to handle any floor repair project.",
+        "process": [
+          "Damage Assessment",
+          "Material Matching",
+          "Repair Implementation",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Extend Floor Life",
+          "Restore Appearance",
+          "Prevent Further Damage",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the type and extent of the damage. We offer free estimates to assess the damage and provide a detailed quote."
+          },
+          {
+            "question": "Can you repair water-damaged flooring?",
+            "answer": "Yes, we can repair water-damaged flooring. However, it's important to address the water leak or source of moisture before repairing the flooring to prevent further damage."
+          },
+          {
+            "question": "Do you offer emergency floor repair services?",
+            "answer": "Yes, we offer emergency floor repair services for urgent situations such as water damage or structural issues. Contact us anytime for immediate assistance."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-flooring",
+        "name": "Commercial Flooring Solutions",
+        "shortDescription": "Durable and stylish flooring for businesses in Long Beach.",
+        "description": "A & K Carpet and Flooring provides commercial flooring solutions for businesses of all sizes in Long Beach. We understand the unique needs of commercial spaces, including durability, safety, and aesthetics. We offer a wide selection of commercial flooring options, including carpet, vinyl, tile, and epoxy coatings.\n\nOur commercial flooring services include installation, repair, and maintenance. We work closely with business owners and property managers to select the right flooring for their specific needs and budget. Given the high foot traffic in commercial spaces, we recommend durable and easy-to-clean flooring options.\n\nWe have experience installing flooring in a variety of commercial settings, including offices, retail stores, restaurants, and warehouses. We understand the importance of minimizing disruption to your business during the installation process. We work efficiently and carefully to complete the project on time and within budget.",
+        "process": [
+          "Needs Assessment",
+          "Material Selection",
+          "Professional Installation",
+          "Ongoing Maintenance"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Improved Safety",
+          "Increased Durability",
+          "Easy Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for a retail store?",
+            "answer": "For retail stores, we recommend durable and easy-to-clean flooring options such as vinyl or tile. These materials can withstand high foot traffic and are resistant to stains and scratches."
+          },
+          {
+            "question": "Do you offer financing options for commercial flooring projects?",
+            "answer": "Yes, we offer financing options for qualified commercial customers. Contact us to learn more about our financing programs."
+          },
+          {
+            "question": "How long does commercial flooring installation take?",
+            "answer": "The installation time depends on the size and complexity of the project. We'll provide a detailed timeline during the consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring proudly serves the diverse flooring needs of Los Angeles, California. From the iconic Hollywood Hills to the vibrant downtown area, we bring our expertise to homes and businesses across the city. Whether you're renovating a classic 1920s Spanish Colonial Revival home or updating a modern loft, our wide selection of flooring options and professional installation services will enhance your space.\n\nLos Angeles' warm, dry climate year-round demands flooring that can withstand the sun and maintain its beauty. We offer a variety of durable and stylish options, including hardwood, tile, and luxury vinyl, specifically chosen to thrive in the Southern California environment. Our team is familiar with the unique architectural styles of Los Angeles and can help you select the perfect flooring to complement your home's character. We're committed to providing exceptional service and quality craftsmanship to our Los Angeles customers.",
+        "localContext": "Los Angeles is known for its diverse architecture, including many 1920s Spanish Colonial Revival homes, and its warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring is delighted to offer our services to the beautiful city of Pasadena, California. Known for its rich history and stunning architecture, Pasadena is a community we are proud to be a part of. We understand the unique needs of Pasadena homeowners, particularly those with charming 1910s-30s Craftsman bungalows. Our flooring options are carefully curated to complement these classic homes and enhance their timeless appeal.\n\nWith Pasadena's warm, dry climate, choosing the right flooring is essential. We provide a range of durable and stylish options suitable for the Southern California environment, including hardwood, tile, and laminate. Our experienced team can help you select the perfect flooring to match your home's aesthetic and withstand the test of time. We are dedicated to providing top-quality products and exceptional installation services to our Pasadena clients.",
+        "localContext": "Pasadena is characterized by its beautiful 1910s-30s Craftsman bungalows and a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "Arcadia"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring proudly serves the master-planned community of Irvine, California. We understand the importance of creating a comfortable and stylish home in this thriving city. From the 1970s to the present, Irvine has been known for its well-designed neighborhoods and family-friendly atmosphere. We offer a wide selection of flooring options to suit the diverse tastes of Irvine residents.\n\nIrvine's warm, dry climate calls for flooring that is both durable and aesthetically pleasing. We provide a variety of options, including carpet, hardwood, tile, and luxury vinyl, designed to withstand the Southern California climate and enhance your home's value. Our experienced team can help you choose the perfect flooring to complement your home's style and meet your family's needs. We are committed to delivering exceptional service and quality craftsmanship to our Irvine customers.",
+        "localContext": "Irvine is a master-planned community with homes built from the 1970s to the present and experiences a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring is pleased to offer our services to the growing city of Santa Clarita, California. Known for its newer master-planned communities built from the 1990s to the 2020s, Santa Clarita offers a modern and family-friendly environment. We understand the needs of Santa Clarita homeowners and provide a wide range of flooring options to suit their lifestyles.\n\nSanta Clarita's warm, dry climate requires flooring that is both durable and beautiful. We offer a variety of options, including carpet, hardwood, laminate, and tile, designed to withstand the Southern California weather and enhance your home's appeal. Our experienced team can help you select the perfect flooring to match your home's style and meet your budget. We are dedicated to providing top-quality products and exceptional installation services to our Santa Clarita clients.",
+        "localContext": "Santa Clarita features newer master-planned communities from the 1990s-2020s and a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring is proud to serve the city of Torrance, California. With its charming 1950s-60s post-war homes, Torrance offers a unique blend of history and modern living. We understand the needs of Torrance homeowners and provide a wide range of flooring options to complement their homes' character.\n\nTorrance's warm, dry climate necessitates flooring that is both durable and stylish. We offer a variety of options, including hardwood, laminate, tile, and carpet, designed to withstand the Southern California weather and enhance your home's value. Our experienced team can help you select the perfect flooring to match your home's style and meet your family's needs. We are committed to delivering exceptional service and quality craftsmanship to our Torrance customers.",
+        "localContext": "Torrance is known for its 1950s-60s post-war homes and a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "As a Long Beach-based company, A & K Carpet and Flooring is deeply committed to serving our local community. From the historic neighborhoods to the bustling downtown area, we provide exceptional flooring solutions to homes and businesses throughout Long Beach. Our team is intimately familiar with the diverse architectural styles found in Long Beach, and we offer a wide selection of flooring options to complement any space.\n\nLong Beach's coastal climate requires flooring that can withstand moisture and maintain its beauty. We offer a variety of durable and stylish options, including waterproof luxury vinyl, tile, and engineered hardwood, specifically chosen to thrive in the Southern California environment. Whether you're renovating a Craftsman bungalow or updating a modern condo, we're here to help you create the perfect flooring for your needs. We are dedicated to providing top-quality products and exceptional customer service to our Long Beach neighbors.",
+        "localContext": "Long Beach is a diverse coastal city with a mix of architectural styles and a moderate climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring is pleased to extend our services to the city of Lakewood, California, known for its well-maintained neighborhoods and strong sense of community. We understand the needs of Lakewood homeowners and offer a diverse range of flooring options to suit various preferences and budgets. Whether you are looking to upgrade your kitchen, bathroom, or entire home, we have the perfect flooring solutions for you.\n\nLakewood's climate requires flooring that is both durable and aesthetically pleasing. We offer a variety of options, including hardwood, laminate, tile, and carpet, designed to withstand the Southern California weather and enhance your home's value. Our experienced team can help you select the perfect flooring to match your home's style and meet your family's needs. We are committed to delivering exceptional service and quality craftsmanship to our Lakewood customers.",
+        "localContext": "Lakewood is a well-maintained residential city with a strong community feel and a moderate climate.",
+        "nearbyAreas": [
+          "Long Beach",
+          "Bellflower",
+          "Cerritos"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "A & K Carpet and Flooring is excited to serve the vibrant city of Huntington Beach, California, also known as \"Surf City USA.\" We understand the lifestyle of Huntington Beach residents and offer flooring options that are both stylish and practical for coastal living. Whether you own a beachfront property or a family home, we have the perfect flooring to enhance your space.\n\nHuntington Beach's coastal climate requires flooring that can withstand sand, moisture, and heavy foot traffic. We offer a variety of durable and water-resistant options, including luxury vinyl plank, tile, and sealed concrete. Our team can help you choose the best flooring to suit your needs and complement your home's aesthetic. We are dedicated to providing exceptional service and quality craftsmanship to our Huntington Beach customers.",
+        "localContext": "Huntington Beach is a coastal city known for its surfing culture and a moderate climate.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Newport Beach",
+          "Fountain Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Luxury Vinyl Plank Installation",
+        "text": "A & K Carpet and Flooring did an amazing job installing LVP in my kitchen and bathroom. The floors look fantastic, and the team was professional and efficient. I highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardwood Refinishing",
+        "text": "Our hardwood floors were looking tired and worn, but A & K Carpet and Flooring brought them back to life! The refinishing process was quick and clean, and the floors now have a beautiful shine. There were a few minor scheduling hiccups, but they were quickly resolved.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "I needed new carpet installed in my living room, and A & K Carpet and Flooring provided excellent service. They helped me choose the perfect carpet, and the installation was flawless. The installers were friendly and professional, and they cleaned up everything afterward.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "A & K Carpet and Flooring installed new tile in my bathroom, and I couldn't be happier with the results. The tile work is beautiful, and the team paid attention to every detail. I highly recommend them for tile installation projects.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 4,
+        "service": "Floor Repair",
+        "text": "I had some water damage to my laminate flooring, and A & K Carpet and Flooring was able to repair it quickly and effectively. The repair is seamless, and you can't even tell there was any damage. Great work!",
+        "date": "2024-07-19"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Commercial Flooring",
+        "text": "A & K Carpet and Flooring installed new commercial-grade carpet in our office building. The team was professional, efficient, and responsive to our needs. The new carpet looks great, and it's holding up well to the heavy foot traffic. We highly recommend them for commercial flooring projects.",
+        "date": "2024-06-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A & K Carpet and Flooring | Long Beach, CA",
+        "description": "Flooring experts in Long Beach. Hardwood, laminate, vinyl, tile & carpet installation and repair. Free quotes! Call (424) 785-1123."
+      },
+      "about": {
+        "title": "About A & K Carpet and Flooring",
+        "description": "Learn about A & K Carpet and Flooring's history, values, and commitment to the Long Beach community. Quality flooring services since 2012."
+      },
+      "services": {
+        "title": "A & K Flooring Services",
+        "description": "Explore our flooring services: hardwood, laminate, vinyl, tile, and carpet installation, refinishing, and repair in Long Beach, CA."
+      },
+      "contact": {
+        "title": "Contact A & K Carpet and Flooring",
+        "description": "Get in touch with A & K Carpet and Flooring for a free consultation and estimate. Call (424) 785-1123 or fill out our online form."
+      },
+      "reviews": {
+        "title": "A & K Carpet and Flooring Reviews",
+        "description": "Read what our satisfied customers in Long Beach and surrounding areas are saying about A & K Carpet and Flooring's services."
+      },
+      "service-areas": {
+        "title": "A & K Flooring Service Areas",
+        "description": "A & K Carpet and Flooring provides flooring services in Long Beach, Los Angeles, Pasadena, Irvine, Santa Clarita, Torrance, CA."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "tile-installation": "/images/service-tile-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp",
+      "commercial-flooring": "/images/service-commercial-flooring.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-flooring": {
+        "src": "/images/service-commercial-flooring.webp",
+        "srcset": "/images/service-commercial-flooring-400w.webp 400w, /images/service-commercial-flooring-800w.webp 800w, /images/service-commercial-flooring-1200w.webp 1200w, /images/service-commercial-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
